@@ -1,7 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"room_ending","path":"rooms/room_ending/room_ending.yy",},"order":3,},
     {"id":{"name":"spr_hazzard","path":"sprites/spr_hazzard/spr_hazzard.yy",},"order":4,},
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},"order":7,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
+    {"id":{"name":"obj_game_over8","path":"objects/obj_game_over8/obj_game_over8.yy",},"order":8,},
     {"id":{"name":"spr_rile_citi","path":"sprites/spr_rile_citi/spr_rile_citi.yy",},"order":3,},
     {"id":{"name":"spr_bat_man_running","path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},"order":1,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":1,},
@@ -41,6 +44,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"room_game_over","path":"rooms/room_game_over/room_game_over.yy",},},
+    {"roomId":{"name":"room_ending","path":"rooms/room_ending/room_ending.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

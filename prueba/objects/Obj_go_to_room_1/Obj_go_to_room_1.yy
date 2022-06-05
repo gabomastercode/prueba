@@ -35,7 +35,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_go_to_room_2",
+  "name": "Obj_go_to_room_1",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,4 +1,4 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 if(keyboard_check(vk_right)){
 	x = x+spd;
@@ -15,5 +15,4 @@ if(keyboard_check(vk_right)){
 	y = y+spd;
 	sprite_index = spr_bat_man_running;
 }
-
-
+depth = -y;

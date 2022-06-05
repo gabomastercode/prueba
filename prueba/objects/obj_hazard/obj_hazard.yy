@@ -1,14 +1,15 @@
 {
   "spriteId": {
-    "name": "Sprite6",
-    "path": "sprites/Sprite6/Sprite6.yy",
+    "name": "spr_hazzard",
+    "path": "sprites/spr_hazzard/spr_hazzard.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
-  "physicsObject": false,
+  "physicsObject": true,
   "physicsSensor": true,
   "physicsShape": 1,
   "physicsGroup": 1,

@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":4,},
+    {"id":{"name":"spr_hazzard","path":"sprites/spr_hazzard/spr_hazzard.yy",},"order":4,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"spr_rile_citi","path":"sprites/spr_rile_citi/spr_rile_citi.yy",},"order":3,},
     {"id":{"name":"spr_bat_man_running","path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},"order":1,},
@@ -16,6 +16,13 @@
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows UWP","path":"options/windowsuap/options_windowsuap.yy",},
   ],
   "defaultScriptType": 0,
   "isEcma": false,
@@ -51,7 +58,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.625",
+    "IDEVersion": "2022.5.0.8",
   },
   "resourceVersion": "1.5",
   "name": "prueba",

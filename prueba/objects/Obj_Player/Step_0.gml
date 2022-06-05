@@ -16,10 +16,5 @@ if(keyboard_check(vk_right)){
 	sprite_index = spr_bat_man_running;
 }
 depth = -y;
-
-if(hp<=0){
-	room_goto(room_game_over)
-}
-
 show_debug_message("live");
 show_debug_message(hp);

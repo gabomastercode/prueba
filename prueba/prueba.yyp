@@ -5,6 +5,7 @@
     {"id":{"name":"spr_rile_citi","path":"sprites/spr_rile_citi/spr_rile_citi.yy",},"order":3,},
     {"id":{"name":"spr_bat_man_running","path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},"order":1,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":1,},
+    {"id":{"name":"Lights_out","path":"sounds/Lights_out/Lights_out.yy",},"order":0,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"spr_bat_man_idle","path":"sprites/spr_bat_man_idle/spr_bat_man_idle.yy",},"order":0,},
     {"id":{"name":"Obj_go_to_room_2","path":"objects/Obj_go_to_room_2/Obj_go_to_room_2.yy",},"order":4,},
